@@ -1,0 +1,2 @@
+# Webpage with my notes to download
+My side technical school project to help my friends download my notes (They asked me a lot of times of them). I put this page on the host. I put this page on the host.
